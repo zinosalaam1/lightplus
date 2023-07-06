@@ -1,0 +1,69 @@
+.fitting{
+    color: wheat;
+    font-size: 40px;
+    font-weight: bold;
+}
+.fitting1{
+    color: wheat;
+    font-size: 20px;
+    font-weight: bold;
+}
+.ern{
+    color: black;
+}
+.nwe{
+    color: wheat;
+}
+.splight{
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.splight1{
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.track{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+.track1{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.chand{
+    font-size: 40px;
+    color: rgb(211, 181, 124);
+    font-weight: bold;
+}
+.chand1{
+    font-size: 20px;
+    color: rgb(211, 181, 124);
+    font-weight: bold;
+}
+.desk{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.desk1{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.ore{
+    color: rgb(211, 181, 124);
+}
+/* .bld{
+    font-weight: bold;
+} */
+/* .lightev{
+    font-size: 15px;
+} */
+.cus{
+    color: rgb(81, 76, 76);
+    text-decoration: none;
+    text-decoration-style: none;
+    text-decoration-line: none;
+}
