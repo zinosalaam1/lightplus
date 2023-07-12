@@ -592,6 +592,16 @@ footer p{
 	  }
 	}	
 
+.removeline{
+	text-decoration-style: none;
+	text-decoration-line: none;
+}
+#eline{
+	text-decoration: none;
+	text-decoration-style: none;
+	text-decoration-line: none;
+}
+
 	/* #preloader {
 		position: fixed;
 		top: 0;
