@@ -58,6 +58,9 @@
 /*========Variable Section End========*/
 
 /*=======01) Global CSS Section=======*/
+body{
+	overflow-x: hidden;
+}
 h1{
 	font-family: var(--Josefin);
 	font-size: 2.5rem;
@@ -622,4 +625,59 @@ footer p{
 	  } */
 #cardo{
 	margin-top: 28px;
+}
+@media screen and (max-width:500px) {
+	#nitt{
+		margin-top: 50px;
+	}
 }	  
+@media screen and (max-width:500px) {
+	.fitting1{
+	  margin-top: 50px;
+	}
+  }
+@media screen and (max-width:500px){
+	#ckt{
+		margin-top: 60px;
+	}
+}
+@media screen and (max-width:500px) {
+	.track1{
+		margin-top: 50px;
+	}
+}
+@media screen and (max-width:500px) {
+	.splight1{
+		margin-top: 50px;
+	}
+}
+@media screen and (max-width:500px) {
+	#spllit{
+		margin-top: 130px;
+	}
+}
+@media screen and (max-width:500px) {
+	#tdsk{
+		margin-top: 50px;
+	}
+}
+@media screen and (max-width:500px) {
+	.desk1{
+		margin-top: 50px;
+	}
+}
+@media screen and (max-width:500px) {
+	#liera{
+		margin-top: 160px;
+	}
+}
+@media screen and (max-width:500px) {
+	.chand1{
+		margin-top: 30px;
+	}
+}
+/* @media screen and (max-width: 500px) {
+	body{
+		overflow: hidden;
+	}
+} */
